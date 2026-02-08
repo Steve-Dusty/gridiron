@@ -1,0 +1,7 @@
+node_modules/
+videos/
+audio/
+.env
+.next/
+out/
+CLAUDE.md
